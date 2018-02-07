@@ -1,2 +1,4 @@
 # hello-world
-i don't know what i am doing 
+
+i still don't know what i'm doing but i'm going to go alongr,
+so i might understand what this is about
